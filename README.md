@@ -1,2 +1,7 @@
 # tic-tac-toe
-simple tic tac toe in terminal
+object-oriented tic tac toe in terminal using minmax algorithm
+#used heurestics
+- alpha–beta pruning
+- evaluation
+- limited depth search
+
